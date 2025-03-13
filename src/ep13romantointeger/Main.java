@@ -1,9 +1,9 @@
-package ep9palindromenumber;
+package ep13romantointeger;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println(PalindromeNumberSolution.isPalindrome(121));
-        System.out.println(PalindromeNumberSolution.isPalindrome(-121));
-        System.out.println(PalindromeNumberSolution.isPalindrome(10));
+        System.out.println(RomanToIntegerSolution.romanToInt("III"));
+        System.out.println(RomanToIntegerSolution.romanToInt("LVIII"));
+        System.out.println(RomanToIntegerSolution.romanToInt("MCMXCIV"));
     }
 }

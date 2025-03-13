@@ -1,4 +1,4 @@
-package p1twosum;
+package ep1twosum;
 
 import java.util.Arrays;
 
